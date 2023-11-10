@@ -2,7 +2,7 @@
 
 **Database Name: bnkms**
 
-**Developed by Junaid Ashraf**
+**Developed by Amogh gaikwad**
 
 **Recommended PHP Version 5.6 or Newer**
 
