@@ -45,8 +45,8 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Your Name - @amogh gaikwad
-
+Name - @amogh gaikwad
+email id:- amoghgaikwad773@gmail.com
 Project Link: https://github.com/amu132/online-banking-php
 
 Acknowledgements
@@ -54,4 +54,4 @@ PHP
 MySQL
 Bootstrap
 jQuery
-[Your Additional Resources...]
+
